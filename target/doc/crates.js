@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["Tp1Concurrentes","crossbeam_deque","crossbeam_epoch","crossbeam_utils","csv","csv_core","either","itoa","memchr","proc_macro2","quote","rayon","rayon_core","ryu","serde","serde_derive","serde_json","syn","unicode_ident"];

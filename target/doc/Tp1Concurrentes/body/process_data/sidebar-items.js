@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["columns_index","gather_data","merge_game_maps","merge_lang_maps"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["PADRON"],"fn":["main","run_console"],"mod":["body","errors","file","structs"]};
